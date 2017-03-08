@@ -10,4 +10,4 @@ angular_xeditable_js = Resource(
     library, 'js/xeditable.js',
     minified='js/xeditable.min.js')
 
-angular_xeditable = Group(angular_xeditable_js, angular_xeditable_css)
+angular_xeditable = Group([angular_xeditable_js, angular_xeditable_css])
