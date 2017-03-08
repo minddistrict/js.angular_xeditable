@@ -1,3 +1,0 @@
-[fanstatic.libraries]
-angular-xeditable = js.angular_xeditable:library
-
