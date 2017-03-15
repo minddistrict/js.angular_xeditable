@@ -1,11 +1,10 @@
 CHANGES
 *******
 
-0.6.1 (unreleased)
-==================
+0.6.0-1 (unreleased)
+====================
 
-- Nothing changed yet.
-
+- Packaging bugfix.
 
 0.6.0 (2017-03-15)
 ==================
