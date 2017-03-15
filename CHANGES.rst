@@ -1,8 +1,8 @@
 CHANGES
 *******
 
-0.6.0-1 (unreleased)
-====================
+0.6.0.post1 (unreleased)
+=========================
 
 - Packaging bugfix.
 
