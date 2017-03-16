@@ -1,7 +1,7 @@
 CHANGES
 *******
 
-0.6.0.post2 (unreleased)
+0.6.0.post2 (2017-03-16)
 ========================
 
 - Repacking.
